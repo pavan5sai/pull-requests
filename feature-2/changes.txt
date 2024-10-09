@@ -1,4 +1,0 @@
-I have edited this file in feature-2 branch 
-
-The line has edited
-This is the line 
